@@ -1,4 +1,5 @@
-body {
+body,
+h2 {
   background-color: tomato;
   font-family: system-ui;
   font-size: 10px;
